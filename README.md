@@ -1,4 +1,4 @@
-# Detection of AI-Generated Arabic Text: A Stylometric Analysis Approach
+# Detection of AI-Generated Arabic Text:A Data Mining Approach
 
 **Course:** MSIS-822 Advanced Data Analytic Techniques  
 **University:** Taibah University  
