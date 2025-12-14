@@ -29,10 +29,3 @@ We engineered **five specific stylometric features** based on Arabic linguistics
 | **F61** | **Instructional Tone** | **Logic:** Count of imperative verbs (e.g., "notice", "compare", "write").<br>**Hypothesis:** AI models often accidentally adopt a "tutorial" style due to instruction-tuning. |
 | **F84** | **Avg Sentence Length** | **Logic:** Mean number of words per sentence.<br>**Hypothesis:** AI maintains a "safe" rhythmic uniformity for readability. Humans exhibit "burstiness" (mix of short/long sentences). |
 | **F107** | **Formality Score** | **Logic:** Ratio of formal markers (e.g., "Al-", "iyya") vs. informal pronouns.<br>**Hypothesis:** AI text is often hyper-correct and formal, lacking personal nuances. |
-
-## 🚀 Installation & Usage
-
-### 1. Prerequisites
-Install the required packages using `pip`:
-```bash
-pip install -r requirements.txt
