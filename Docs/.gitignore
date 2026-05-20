@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python & Jupyter Notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Apache Spark temporary and warehouse files
+spark-warehouse/
+*.crc
+_SUCCESS
+_temporary/
+.sparkStaging/
+
+# Virtual environments
+venv/
+env/
+.venv/

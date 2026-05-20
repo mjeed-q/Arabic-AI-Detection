@@ -1,9 +1,8 @@
+pyspark==3.5.0
 pandas
-numpy
-nltk
+datasets
+openpyxl
+scikit-learn
+camel-tools
 matplotlib
 seaborn
-scikit-learn
-datasets
-joblib
-openpyxl
